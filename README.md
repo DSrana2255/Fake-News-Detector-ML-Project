@@ -65,7 +65,7 @@ Logistic Regression Model →
 Output Prediction (Fake / Real)
 ▶️ Installation & Setup
 1. Clone Repository
-git clone https://github.com/your-username/fake-news-detection.git
+git clone https://github.com/DSrana2255/Fake-News-Detector-ML-Project
 cd fake-news-detection
 2. Create Virtual Environment
 python -m venv venv
